@@ -1,0 +1,2 @@
+# Testes_projeto_vaquinha
+Projeto criado para entrega final no Bootcamp Decola Dev 2021. A ideia do projeto é aumentar a qualidade da entrega de projetos com testes de unidade, integrados e TDD. Este projeto se trata de uma plataforma de vaquinha online e foi desenvolvido em .Net Core com a arquitetura MVC.
